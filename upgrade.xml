@@ -2,7 +2,7 @@
 <upgrade>
 	<versionCode>3</versionCode>
 	<versionName>1.0.beta.c</versionName>
-	<description>测试</description>
+	<description></description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>
