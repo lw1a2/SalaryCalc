@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>3</versionCode>
-	<versionName>1.0.beta.c</versionName>
-	<description></description>
+	<versionCode>5</versionCode>
+	<versionName>1.0c</versionName>
+	<description>错误修正</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>
